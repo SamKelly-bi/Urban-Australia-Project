@@ -16,7 +16,9 @@
 Inspired by a similar study conducted by New York–based urban consultancy firm Resonance, this project evaluates Australia’s eight largest metropolitan areas across three core dimensions:
 
 **Livability:** Measuring the quality of a city’s natural and built environments and how they contribute to a strong sense of place.
+
 **Lovability:** Assessing the cultural vibrancy, amenities, and overall appeal of a city for residents and visitors.
+
 **Prosperity:** Evaluating the strength of a city’s human capital and its capacity to generate economic value and long-term wellbeing.
 
 ---
