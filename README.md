@@ -8,7 +8,7 @@
 - ![Case Study Report](https://github.com/SamKelly-bi/Urban-Australia-Project/blob/main/Case_Study_Overview.md)
 - ![SQL](https://github.com/SamKelly-bi/Urban-Australia-Project/tree/main/SQL)
 - ![Excel]()
-- ![Power BI]()
+- ![Power BI](https://github.com/SamKelly-bi/Urban-Australia-Project/tree/main/Power%20BI)
 
 ---
 
