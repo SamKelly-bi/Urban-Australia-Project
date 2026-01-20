@@ -44,6 +44,62 @@ In future iterations of this study, I would like to incorporate public transport
 
 ## Methodology
 
+### Excel (Z-Score Normalization)
+Z-scores measure how many standard deviations a given value is from the mean, allowing all metrics—regardless of scale or unit—to be compared on a consistent basis. This approach ensures each city is weighted accurately across all indicators.
+
+**Z-Score Interpretation**
+- Z = 0 → Exactly average
+- Z > 0 → Above average
+- Z < 0 → Below average
+- Z = ±1 → One standard deviation from the mean
+- Z = ±2 → Significantly above or below average (potential outlier)
+
+**Formula**
+Z = (Value − Mean) / Standard Deviation
+
+---
+
+### SQL
+- Database structured into five core tables:
+  - Cities  
+  - Livability  
+  - Lovability  
+  - Prosperity  
+  - City Z-Scores
+- SQL views were prioritized to demonstrate analytical proficiency, surface key insights, and identify anomalies and performance outliers within the dataset
+- Views enabled reproducible analysis and streamlined downstream reporting
+
+---
+
+### Power BI
+
+#### Data Model
+- **1 Fact Table**
+  - Cities
+- **7 Dimension Tables**
+  - Livability lookup  
+  - Livability z-scores  
+  - Lovability lookup  
+  - Lovability z-scores  
+  - Prosperity lookup  
+  - Prosperity z-scores  
+  - Overall city z-scores
+
+#### Visuals
+- Z-score methodology overview and explanation
+- KPI cards highlighting performance outliers and anomalies
+- Clustered column chart showing category-level city z-score breakdowns
+- Stacked bar chart illustrating overall city performance
+- Metric-level cards with custom tooltips displaying:
+  - Metric definition
+  - Highest and lowest values
+  - Underlying data source
+- Matrix visuals showing each city’s rank across all evaluated metrics
+
+
+
+
+
 
 
 
