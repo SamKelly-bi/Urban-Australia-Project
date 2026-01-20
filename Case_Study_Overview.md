@@ -57,7 +57,6 @@ Z-scores measure how many standard deviations a given value is from the mean, al
 **Formula**
 Z = (Value − Mean) / Standard Deviation
 
----
 
 ### SQL
 - Database structured into five core tables:
@@ -69,7 +68,6 @@ Z = (Value − Mean) / Standard Deviation
 - SQL views were prioritized to demonstrate analytical proficiency, surface key insights, and identify anomalies and performance outliers within the dataset
 - Views enabled reproducible analysis and streamlined downstream reporting
 
----
 
 ### Power BI
 
