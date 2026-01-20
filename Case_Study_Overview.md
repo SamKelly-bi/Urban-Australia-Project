@@ -9,5 +9,43 @@ The analysis combines **SQL-based data exploration**, an **Excel-driven z-score 
 
 ---
 
+## Key Findings
+**Sydney** and **Melbourne** emerged as the two top-performing cities. Their large populations, diverse economies, and wide range of cultural and lifestyle attractions enabled them to score highly across most metrics.
+
+Many of the results aligned with common perceptions of each city. For example, Sydney offers higher average salaries but is also characterised by high rental costs, while the Gold Coast performs strongly in tourism-related measures yet lags in areas such as rental affordability. As expected, the methodology tended to favour larger cities, reflecting the broader range of services and opportunities typically available in major urban centres.
+
+In future iterations of this study, I would like to incorporate public transport as a standalone metric, as it plays a significant role in overall urban livability. Overall, I am satisfied with the integrity of the analysis and believe it provides an accurate and balanced representation of living conditions across Australia’s eight largest cities.
+
+---
+
+## Data Sources
+|---------|-------|
+| Data Source | Description |
+|------------|-------------|
+| TripAdvisor | Contributed data for cultural attractions, tourism activity, and lifestyle metrics |
+| WalkScore | Comprehensive walkability, transit, and bikeability data for major cities worldwide |
+| PeopleForBikes | Global bike infrastructure and cycling accessibility data |
+| IQAir | Real-time and historical air quality measurements for cities worldwide |
+| Australian Bureau of Meteorology | Up-to-date climate and weather data across Australia |
+| Australian Census | Official demographic and socioeconomic data compiled by the Australian Government |
+| SGS Economics & Planning | Melbourne-based consultancy providing social, economic, and environmental insights |
+| Australian Bureau of Statistics (ABS) | Comprehensive open datasets covering Australia’s economy, population, and society |
+| FlightsFrom | Global flight route and airport connectivity data |
+| QS World University Rankings | Annual rankings of top tertiary institutions worldwide |
+| StartupBlink | Global city rankings based on startup ecosystems and entrepreneurial activity |
+
+
+**Data Processing Steps**
+- Imported raw datasets into Excel and performed data cleaning and normalization in preparation for importing into SQL
+- Designed and created the database and table schema in SQL prior to importing data via the SQL Import Wizard
+- Conducted reproducible query analysis using SQL views to highlight key insights and identify anomalies within the dataset
+- Imported curated datasets into Power BI and integrated SQL findings to produce a high-level, interactive visual analysis
+
+---
+
+## Methodology
+
+
+
 
 
