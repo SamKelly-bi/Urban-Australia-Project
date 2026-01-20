@@ -5,7 +5,7 @@
 ---
 
 ## Quick Links 🔗
-- ![Case Study Report]()
+- ![Case Study Report](https://github.com/SamKelly-bi/Urban-Australia-Project/blob/main/Case_Study_Overview.md)
 - ![SQL]()
 - ![Excel]()
 - ![Power BI]()
