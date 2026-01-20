@@ -26,9 +26,9 @@ Inspired by a similar study conducted by New York–based urban consultancy firm
 ## Tools & Techniques 🛠️
 | Skill/Tool | Where it's used |
 |------------|-----------------|
-| **SQL** - Database design, analytical quarying and views | ![SQL Code]() |
-| **Excel** - Power Query, Vlookups, formulas and formatting | ![Excel Model]() |
-| **Power BI** - Advanced measures, interactive visuals and data storytelling | ![Power BI Model]() |
+| **SQL** - Database design, analytical quarying and views | ![SQL Code](https://github.com/SamKelly-bi/Urban-Australia-Project/tree/main/SQL) |
+| **Excel** - Power Query, Vlookups, formulas and formatting | ![Excel Model](https://github.com/SamKelly-bi/Urban-Australia-Project/tree/main/Excel) |
+| **Power BI** - Advanced measures, interactive visuals and data storytelling | ![Power BI Model](https://github.com/SamKelly-bi/Urban-Australia-Project/tree/main/Power%20BI) |
 | **Database Normalisation** - Implemenatation of keys and constraints to enforce data integrity | SQL database creation |
 | **SQL Analysis** - Joins, CASE statements, window functions and business level views | SQL analysis used to answer real, business level questions |
 | **Data Storytelling** - Interactive visuals and tooltips used to drive narrative of the reports findings | Power BI visuals and custom tooltips |
