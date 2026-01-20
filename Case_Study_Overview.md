@@ -96,6 +96,17 @@ Z = (Value − Mean) / Standard Deviation
   - Underlying data source
 - Matrix visuals showing each city’s rank across all evaluated metrics
 
+---
+
+## Key Results
+
+- **Sydney** ranked as the top overall city, driven by strong performance in walkability, access to parks, cultural attractions, and business opportunities.
+- **Melbourne** narrowly missed the top position, excelling in overall livability, restaurant density, and university rankings.
+- **Brisbane** consistently performed above the dataset average across most metrics, securing a comfortable third-place finish.
+- **Perth**, **Canberra**, **Adelaide**, and the **Gold Coast** produced near-identical overall scores, with Canberra’s result notably strengthened by high average wages.
+- **Newcastle** finished in eighth place, trailing other cities largely due to scale limitations and lower performance relative to larger metropolitan regions.
+
+
 
 
 
