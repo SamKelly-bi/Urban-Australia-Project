@@ -1,19 +1,19 @@
 # Urban Australia Project 🇦🇺
 
-> An end-to-end SQL, Excel, and Power BI analytics pipeline evaluating Australia’s eight largest metropolitan areas across 25+ performance metrics.
+> An end-to-end SQL, Excel, and Power BI analytics pipeline evaluating Australia’s 8 largest metropolitan areas across 25+ performance metrics.
 
 ---
 
 ## Quick Links 🔗
 - ![Case Study Report](https://github.com/SamKelly-bi/Urban-Australia-Project/blob/main/Case_Study_Overview.md)
 - ![SQL](https://github.com/SamKelly-bi/Urban-Australia-Project/tree/main/SQL)
-- ![Excel]()
+- ![Excel](https://github.com/SamKelly-bi/Urban-Australia-Project/tree/main/Excel)
 - ![Power BI](https://github.com/SamKelly-bi/Urban-Australia-Project/tree/main/Power%20BI)
 
 ---
 
 ## Project Overview 📁
-Inspired by a similar study conducted by New York–based urban consultancy firm Resonance, this project evaluates Australia’s eight largest metropolitan areas across three core dimensions:
+Inspired by a similar study conducted by New York–based urban consultancy firm **Resonance**, this project evaluates Australia’s 8 largest metropolitan areas across three core dimensions:
 
 **Livability:** Measuring the quality of a city’s natural and built environments and how they contribute to a strong sense of place.
 
