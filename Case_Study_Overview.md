@@ -19,7 +19,6 @@ In future iterations of this study, I would like to incorporate public transport
 ---
 
 ## Data Sources
-|---------|-------|
 | Data Source | Description |
 |------------|-------------|
 | TripAdvisor | Contributed data for cultural attractions, tourism activity, and lifestyle metrics |
