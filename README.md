@@ -35,4 +35,6 @@ Inspired by a similar study conducted by New York–based urban consultancy firm
 
 ---
 
+## Dashboard Preview 📊
 
+![Livability Slide](https://github.com/SamKelly-bi/Urban-Australia-Project/blob/main/Power%20BI/Livability%20View.png)
