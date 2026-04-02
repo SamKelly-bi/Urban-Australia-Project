@@ -1,11 +1,11 @@
-# Australan Urban Analysis - Final Report
+# Australian Urban Analysis — Final Report
 
 ## Executive Summary
 After reviewing Resonance Consultancy’s [2025 Best Cities in the USA Report](https://www.worldsbestcities.com/rankings/americas-best-cities/), I was inspired to undertake a comparable analysis focused on Australian cities.
 
-This study evaluates and ranks major Australian cities across a broad set of indicators, including **Median Household Income**, **Cultural Attractions**, and **Business Ecosystem strength**. Where possible, I adopted the same metrics, data sources, and methodological approach used by Resonance to ensure consistency and comparabile analytical performance.
+This study evaluates and ranks major Australian cities across a broad set of indicators, including **Median Household Income**, **Cultural Attractions**, and **Business Ecosystem Strength**. Where possible, I adopted the same metrics, data sources, and methodological approach used by Resonance to ensure consistency and comparable analytical performance.
 
-The analysis combines **SQL-based data exploration**, an **Excel-driven z-score normalization framework**, and an **interactive Power BI dashboard** to present results in a clear, data-driven, and accessible format. Together, these tools provide a comprehensive view of each city’s relative performance across livability, lovability, and economic opportunity.
+The analysis combines **SQL-based data exploration**, an **Excel-driven z-score normalisation framework**, and an **interactive Power BI dashboard** to present results in a clear, data-driven, and accessible format. Together, these tools provide a comprehensive view of each city’s relative performance across livability, lovability, and economic opportunity.
 
 ---
 
@@ -33,9 +33,9 @@ In future iterations of this study, I would like to incorporate public transport
 | QS World University Rankings | Annual rankings of top tertiary institutions worldwide |
 | StartupBlink | Global city rankings based on startup ecosystems and entrepreneurial activity |
 
-
 **Data Processing Steps**
-- Imported raw datasets into Excel and performed data cleaning and normalization in preparation for importing into SQL
+
+- Imported raw datasets into Excel and performed data cleaning and normalisation in preparation for importing into SQL
 - Designed and created the database and table schema in SQL prior to importing data via the SQL Import Wizard
 - Conducted reproducible query analysis using SQL views to highlight key insights and identify anomalies within the dataset
 - Imported curated datasets into Power BI and integrated SQL findings to produce a high-level, interactive visual analysis
@@ -44,7 +44,7 @@ In future iterations of this study, I would like to incorporate public transport
 
 ## Methodology
 
-### Excel (Z-Score Normalization)
+### Excel (Z-Score Normalisation)
 Z-scores measure how many standard deviations a given value is from the mean, allowing all metrics—regardless of scale or unit—to be compared on a consistent basis. This approach ensures each city is weighted accurately across all indicators.
 
 **Z-Score Interpretation**
@@ -57,7 +57,6 @@ Z-scores measure how many standard deviations a given value is from the mean, al
 **Formula**
 Z = (Value − Mean) / Standard Deviation
 
-
 ### SQL
 - Database structured into five core tables:
   - Cities  
@@ -65,9 +64,8 @@ Z = (Value − Mean) / Standard Deviation
   - Lovability  
   - Prosperity  
   - City Z-Scores
-- SQL views were prioritized to demonstrate analytical proficiency, surface key insights, and identify anomalies and performance outliers within the dataset
+- SQL views were prioritised to demonstrate analytical proficiency, surface key insights, and identify anomalies and performance outliers within the dataset
 - Views enabled reproducible analysis and streamlined downstream reporting
-
 
 ### Power BI
 
@@ -98,11 +96,11 @@ Z = (Value − Mean) / Standard Deviation
 
 ## Key Results
 
-- **Sydney** ranked as the top overall city, driven by strong performance in walkability, access to parks, cultural attractions, and business opportunities.
-- **Melbourne** narrowly missed the top position, excelling in overall livability, restaurant density, and university rankings.
-- **Brisbane** consistently performed above the dataset average across most metrics, securing a comfortable third-place finish.
-- **Perth**, **Canberra**, **Adelaide**, and the **Gold Coast** produced near-identical overall scores, with Canberra’s result notably strengthened by high average wages.
-- **Newcastle** finished in eighth place, trailing other cities largely due to scale limitations and lower performance relative to larger metropolitan regions.
+- **Sydney** ranked as the top overall city, driven by strong performance in walkability, access to parks, cultural attractions, and business opportunities
+- **Melbourne** narrowly missed the top position, excelling in overall livability, restaurant density, and university rankings
+- **Brisbane** consistently performed above the dataset average across most metrics, securing a comfortable third-place finish
+- **Perth**, **Canberra**, **Adelaide**, and the **Gold Coast** produced near-identical overall scores, with Canberra’s result notably strengthened by high average wages
+- **Newcastle** finished in eighth place, trailing other cities largely due to scale limitations and lower performance relative to larger metropolitan regions
 
 
 
